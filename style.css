@@ -1,0 +1,12 @@
+.choice{
+  border: none;
+  background-color: bisque;
+  color: pink;
+  padding: 90px 180px;
+  text-align: center;
+  text-decoration: none;
+  display:inline-block;
+  font-size: 30px;
+  margin: 4px 2px;
+  
+}
